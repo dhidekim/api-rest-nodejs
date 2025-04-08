@@ -19,6 +19,7 @@
     "typescript": "^4.9.5"
   },
   "dependencies": {
+    "02-api-rest-nodejs": "file:",
     "dotenv": "^16.0.3",
     "fastify": "^4.12.0",
     "knex": "^2.4.2",
